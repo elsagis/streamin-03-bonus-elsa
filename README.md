@@ -21,3 +21,6 @@ Your README.md must clearly describe what you did, telling the story of your dat
 Your README.md must display a screenshot of the two windows running concurrently. ✔️
 Add a .gitignore (telling which files and directories NOT to push up to GitHub). Recommendation: copy .gitignore from an earlier repo. ✔️
 These are the important skills you want to demonstrate. Create unique streaming projects, using professional communication. I encourage you to give it a try. 
+
+Multi streaming ping
+![process_streaming-03-bonus-Elsa](https://user-images.githubusercontent.com/105325747/215934747-5dbe4034-c2cd-4add-acbc-c6dda61c240f.png)
