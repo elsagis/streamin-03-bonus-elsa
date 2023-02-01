@@ -3,7 +3,8 @@ Code by: Elsa Ghirmazion
 
 Created on: 31 Jan, 2023
 
-Original Data: 
+Original Data: C:\Users\15738\Documents\streaming-03-bonus-elsa-main\process_streaming_elsaghirmazion.csv
+
 
 This is my CSV file from previous project content woman life expectancy data from WHO.
 
